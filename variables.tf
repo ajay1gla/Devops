@@ -16,10 +16,10 @@
 # }
 
 variable "access_key" {
-  default     = ""
+  default     = "AKIAYBLLN3QBO47ETN7Y"
 }
 variable "secret_key" {
-  default     = ""
+  default     = "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"
 }
 
 #terraform apply -var-file="terraform.tfvars"
